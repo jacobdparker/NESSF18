@@ -1,0 +1,126 @@
+\documentclass[]{aastex6}
+
+\usepackage{amsmath}
+\usepackage{graphicx,epstopdf}
+\usepackage{natbib}
+%\usepackage[left=1in]{geometry}
+\bibliographystyle{apj}
+
+
+\DeclareMathOperator{\sech}{sech}
+
+
+
+% Common Math Operators Defined by Jake
+
+\newcommand{\curl}{\nabla \times}
+\newcommand{\grad}{\nabla}
+\newcommand{\pardiv}[3]{\frac{\partial^{#3} {#1}}{\partial {#2}^{#3}}}
+\newcommand{\adiv}[1]{\frac{D {#1}}{Dt}}
+\newcommand{\adivlong}[1]{\frac{\partial{#1}}{\partial t} + (\mathbf{u} \cdot \nabla){#1}}
+
+
+\begin{document}
+\title{Bursts, Bombs, and Explosive Events: Magnetic Reconnection in the Lower Solar Atmosphere} 
+
+\author{Jacob D. Parker}
+\affil{Department of Physics, Montana State University,
+  Bozeman, Montana 59717}
+
+%\keywords{cool keyword}
+
+%\linenumbers
+
+
+
+\begin{abstract}
+	Write an abstract.
+
+%\date{Draft: \today}
+\end{abstract}
+
+\section{Background}
+%This section needs to be 1) Compelling and 2) Convey a Depth of Understanding
+
+	\begin{figure}
+		\label{fig:reconnect}
+		\caption{Here we present a cartoon representing an ideal presentation of magnetic reconnection and corresponding spectral observation.  Panel a shows Petscheck reconnection with bi-directional outflow jets at the Alfv\'en Speed, $v_a$.  Plotted along side is a theoretical line profile, for the labeled \textit{Line Of Sight} (LOS), showing two seperate peaks in intensity at $\pm v_a$. Panel b shows the developement of magnetic islands during the onset of the tearing mode instability.  The addition of stationary emitting material will fill out line center and result in a broadened, mostly centered line profile. The blue, green, red coloring on the line profiles demonstrated how line intensity is binned in Figure \ref{fig:eecolor}.}
+		
+		\centerline{\input{reconnection_cartoon.pdf_tex}} 
+		
+	\end{figure}  
+	\subsection{Transient Brightenings in the Lower Solar Atmosphere}
+	
+	%Likely going to need some citations in this section.
+	
+	From the photosphere to the upper reaches of the transition region the solar atmosphere changes three orders of magnitude in temperature over only a few thousand kilometers.  This thin layer of the Sun, while often less grand in appearance than the corona, plays an important role in the energy transport required to heat the corona to mega-Kelvin temperatures.  Like the flickering coals of a camp fire the photosphere, chromosphere, and transition region are littered with small, short lived, brightenings.  Brightenings give us clues as to how often, where, and when energy produced in the solar interior is deposited beyond the photosphere.
+	
+	Many of these small brightenings are also accompanied by fast motion.  Spectroscopic observations reveal many events, over a range of heights and temperatures, that have Doppler velocities exceeding the local thermal speed.  In order for plasma velocities to exceed  thermal speeds there must be a conversion of some other energy source to kinetic energy. It is becoming widely accepted that this extra energy comes from the solar magnetic field.  Through magnetic reconnection the Sun's magnetic field eliminates high energy discontinuities and converts that energy in to the heating and motion of local plasma.  While repeated observations of non-thermal plasma motion within regions of complicated magnetic field has the solar physics community leaning toward magnetic reconnection as the cause of solar atmospheric heating the details are still the subject of much debate.	
+
+	\subsection{Ellerman Bombs and Explosive Events}
+	
+	Two commonly observed events in the Sun's lower atmosphere are Ellerman Bombs (EBs) and Explosive Events (EEs). EBs \citep{Ellerman1917} are commonly observed as intense brightenings in the wings of H$\alpha$ $\lambda 6563 \AA $ are characterized by small spatial scales (arcsecond or smaller) and short life times (a few minutes). H$\alpha$ has a peak formation temperature of $\approx 10000$ K placing EBs very low in the solar atmosphere near the photosphere. EBs are observed in regions of opposing magnetic polarity and, until recently \citep{Nelson2017}, exclusively within active regions.  EBs are believed to be the result of magnetic reconnection as new flux emerges through the photosphere and reconnects with the preexisting photopsheric magnetic field.  High resolution instruments such as the Crisp Imaging Spectropolarimeter \citep[CHRISP;][]{CHRISP} on the Swedish Solar Telescope \citep[SST;][]{SST} and the Interface Region Imaging Spectrometer \citep[IRIS;][]{IRIS} have helped discover more details about EBs.  They often originate between granules deep in the photosphere, they often have an upward extending flow or ``jet", and they demonstrate very fast variations (on second timescales) coupled with repeated eruptions \citep{Watanabe2011,Vissers2013,Vissers2015}
+	
+	
+	
+	EEs were first analyzed by \citet{Brueckner1983} using data from the High Resolution Telescope and Spectrograph (HRTS) sounding rocket. EEs are typically characterized by Doppler shifts on order $100$ km s$^{-1}$ and spatial scales of a few arcseconds \citep{Dere1989,Dere1994}.  Si IV $\lambda 1393$ \AA rasters taken by the Solar Ultraviolet Measurement of Emitted Radiation (SUMER) revealed an EE with bi-directional jets near small magnetic bi-poles on the solar surface \citep{Innes1997}.  This presentation was said to match the classic magneto-hydrodynamic (MHD) model of reconnection \citep{Petschek1964} quite well and is illustrated in Figure \ref{fig:reconnect}(a)
+	
+
+	
+	Explosive events as viewed by MOSES, Lewis' event (Possible Tearing Mode), Tom's thesis and the discovery of symmetric, fast, bi-directional flows in He II
+	
+	\subsection{IRIS Bombs and UV Bursts}
+	With IRIS many Bomb/Burst events have been observed and modeled (stack of sources here).  Most agree these are the result of reconnection, others (Phil Judge) do not.  
+	
+	Often these events are seen as non-gaussian triangular line profiles (Lidja and more recent study including Bart), sometimes they have absorption features sometimes not, sometimes they even show self absorption (One paper to dig up)
+	
+	\subsection{Problem Statement} 
+	Come up with a really good, concise question.
+	
+	
+
+\section{Technical Approach} 
+%This section needs show that solving our problem is 3) Feasible and that our method is 4) robust to possible set backs.
+
+	\subsection{Initial Survey and Event Selection}
+	Why IRIS, Si IV, OBS selection criterion
+	Why the medium or large line list?
+	What is an "event"
+	How many, what size, how long, where? (Dig through Allison's work)
+	Maybe show a few particularly interesting events.
+	
+	Specific Questions brought up in initial survey?
+	
+	\subsection{Spectral Diagnostic IRIS}
+	Identifying events with optical depth effects (Si IV line ratios). This will help us distinguish between bi-directional flows and absorption.
+	
+	Doppler maps of events, possible human sorting?
+	
+	Eventually I would also like to examine HMI context for various types of events.  Also look for evidence or lack there of in other IRIS lines (mostly C II)
+	
+	Whole purpose is to get a handle on the types and frequency of different kinds of events.
+	\subsection{ESIS and MOSES-3}
+	While IRIS provides high resolution spectral data in a few lines it fails in a few different areas.  Small field of view, a compromise between high cadence(sit-and-stare) and spatial resolution (rasters).  
+	
+	MOSES/ESIS proved the right lines for comparison, a larger FOV, and spectral data in a snapshot over the full field of view.  Talk about finishing up the developement of KSO and how you plan to tie in the data eventually.
+
+
+\section{Scientific Impact}
+%This section needs to answer the questions from the NASA strategic plan as well as quote language from the Decadal Survey. 5) Impact  This may also be the section to address the timely impact
+%
+%What causes the sun to vary?  How does the heliosphere respond?  What is the impact on Humanity?
+Short and sweet.  Reconnection is a universal process that contributes tremendously to the variability of our sun and intern the Sun-Earth environment.
+
+ 
+\section{Timeline}
+Get a fucking degree already, and maybe some money in the meantime.
+
+
+\bibliography{NESSF18}
+
+
+	
+
+\end{document}
+
+

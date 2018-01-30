@@ -1,0 +1,72 @@
+%% Creator: Inkscape inkscape 0.91, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'reconnection_cartoon.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{261.92344383bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.94504214)%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{reconnection_cartoon.pdf}}%
+    \put(-0.00137579,0.64689239){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{a)}}}%
+    \put(0.0212286,0.19480409){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{b)}}}%
+    \put(0.09657665,0.86587262){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{reconnection_cartoon.pdf}}%
+    \put(0.24367489,0.8553134){\color[rgb]{0,0.58823529,0}\makebox(0,0)[lb]{\smash{LOS}}}%
+    \put(0.02662537,0.92183641){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Magnetic Field Configuration}}}%
+    \put(0.56687915,0.91681492){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Theoretical Line Profile}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{reconnection_cartoon.pdf}}%
+    \put(0.56167147,0.48219224){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{-$v_a$}}}%
+    \put(0.64213438,0.48326509){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{-$c_s$}}}%
+    \put(0.78875567,0.48308631){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$c_s$}}}%
+    \put(0.87851653,0.48398034){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$v_a$}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{reconnection_cartoon.pdf}}%
+    \put(0.56270261,0.0485968){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{-$v_a$}}}%
+    \put(0.66281075,0.04856594){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{-$c_s$}}}%
+    \put(0.77808789,0.04949087){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$c_s$}}}%
+    \put(0.87954762,0.05038495){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$v_a$}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{reconnection_cartoon.pdf}}%
+  \end{picture}%
+\endgroup%
