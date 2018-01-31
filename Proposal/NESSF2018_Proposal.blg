@@ -9,7 +9,7 @@ Warning--string name "pf" is undefined
 --line 206 of file NESSF18.bib
 Warning--string name "apj" is undefined
 --line 219 of file NESSF18.bib
-I was expecting a `,' or a `}'---line 485 of file NESSF18.bib
+I was expecting a `,' or a `}'---line 549 of file NESSF18.bib
  : 
  : @ARTICLE{Peter2014,
 (Error may have been on previous line)
@@ -25,45 +25,45 @@ ptr=1, stack=
  2015
 ---the literal stack isn't empty for entry Innes2015
 while executing---line 1572 of file apj.bst
-You've used 22 entries,
+You've used 27 entries,
             2387 wiz_defined-function locations,
-            680 strings with 9913 characters,
-and the built_in function-call counts, 13729 in all, are:
-= -- 1540
-> -- 725
-< -- 2
-+ -- 270
-- -- 276
-* -- 1133
-:= -- 2009
-add.period$ -- 22
-call.type$ -- 22
-change.case$ -- 305
-chr.to.int$ -- 22
-cite$ -- 24
-duplicate$ -- 716
-empty$ -- 577
-format.name$ -- 310
-if$ -- 2680
+            713 strings with 10740 characters,
+and the built_in function-call counts, 16671 in all, are:
+= -- 1860
+> -- 841
+< -- 6
++ -- 304
+- -- 313
+* -- 1352
+:= -- 2399
+add.period$ -- 27
+call.type$ -- 27
+change.case$ -- 342
+chr.to.int$ -- 27
+cite$ -- 29
+duplicate$ -- 897
+empty$ -- 749
+format.name$ -- 352
+if$ -- 3301
 int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 0
-newline$ -- 69
-num.names$ -- 89
-pop$ -- 298
+newline$ -- 84
+num.names$ -- 109
+pop$ -- 342
 preamble$ -- 1
-purify$ -- 349
+purify$ -- 396
 quote$ -- 0
-skip$ -- 767
+skip$ -- 981
 stack$ -- 0
-substring$ -- 634
-swap$ -- 368
-text.length$ -- 2
+substring$ -- 824
+swap$ -- 461
+text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 176
+type$ -- 216
 warning$ -- 2
-while$ -- 76
+while$ -- 98
 width$ -- 0
-write$ -- 264
+write$ -- 324
 (There were 3 error messages)

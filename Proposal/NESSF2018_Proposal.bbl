@@ -8,6 +8,11 @@
   {Bartoe}}{1983}]{Brueckner1983}
 {Brueckner}, G.~E.,  \& {Bartoe}, J.-D.~F. 1983, \apj, 272, 329
 
+\bibitem[\protect\citeauthoryear{{Courrier} \& {Kankelborg}}{{Courrier} \&
+  {Kankelborg}}{2015}]{Courrier2015}
+{Courrier}, H.~T.,  \& {Kankelborg}, C.~C. 2015, in \procspie, Vol. 9643, Image
+  and Signal Processing for Remote Sensing XXI, 96431Z
+
 \bibitem[\protect\citeauthoryear{{De Pontieu} et~al.}{{De Pontieu}
   et~al.}{2014}]{IRIS}
 {De Pontieu}, B., et~al. 2014, \solphys, 289, 2733
@@ -40,6 +45,9 @@ Furth, H.~P., Killeen, J.,  \& Rosenbluth, M.~N., 6, 459
 {Innes}, D.~E., {Inhester}, B., {Axford}, W.~I.,  \& {Wilhelm}, K. 1997, \nat,
   386, 811
 
+\bibitem[\protect\citeauthoryear{{Judge}}{{Judge}}{2015}]{Judge2015}
+{Judge}, P.~G. 2015, \apj, 808, 116
+
 \bibitem[\protect\citeauthoryear{{Mathioudakis} et~al.}{{Mathioudakis}
   et~al.}{1999}]{Mathioudakis1999}
 {Mathioudakis}, M., {McKenny}, J., {Keenan}, F.~P., {Williams}, D.~R.,  \&
@@ -49,6 +57,11 @@ Furth, H.~P., Killeen, J.,  \& Rosenbluth, M.~N., 6, 459
   et~al.}{2017}]{Nelson2017}
 {Nelson}, C.~J., {Freij}, N., {Reid}, A., {Oliver}, R., {Mathioudakis}, M.,  \&
   {Erd{\'e}lyi}, R. 2017, \apj, 845, 16
+
+\bibitem[\protect\citeauthoryear{{Parker} \& {Kankelborg}}{{Parker} \&
+  {Kankelborg}}{2016}]{Parker2016}
+{Parker}, J.,  \& {Kankelborg}, C. 2016, in AAS/Solar Physics Division Meeting,
+  Vol.~47, AAS/Solar Physics Division Abstracts \#47, 2.04
 
 \bibitem[\protect\citeauthoryear{{Peter} et~al.}{{Peter}
   et~al.}{2014}]{Peter2014}
@@ -74,6 +87,17 @@ Furth, H.~P., Killeen, J.,  \& Rosenbluth, M.~N., 6, 459
 \bibitem[\protect\citeauthoryear{Scharmer et~al.}{Scharmer
   et~al.}{2008}]{CHRISP}
 Scharmer, G.~B., et~al. 2008, The Astrophysical Journal Letters, 689, L69
+
+\bibitem[\protect\citeauthoryear{{Smart}, {Courrier}, \& {Kankelborg}}{{Smart}
+  et~al.}{2016}]{Smart2016}
+{Smart}, R., {Courrier}, H.,  \& {Kankelborg}, C. 2016, in AAS/Solar Physics
+  Division Meeting, Vol.~47, AAS/Solar Physics Division Abstracts \#47, 309.01
+
+\bibitem[\protect\citeauthoryear{{Smart} et~al.}{{Smart}
+  et~al.}{2017}]{Smart2017}
+{Smart}, R., {Kankelborg}, C.~C., {Bonham}, N.,  \& {Courrier}, H. 2017, in
+  AAS/Solar Physics Division Meeting, Vol.~48, AAS/Solar Physics Division
+  Abstracts \#48, 106.10
 
 \bibitem[\protect\citeauthoryear{{Vissers}, {Rouppe van der Voort}, \&
   {Rutten}}{{Vissers} et~al.}{2013}]{Vissers2013}
