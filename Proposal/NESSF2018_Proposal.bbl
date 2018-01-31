@@ -1,5 +1,9 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\citeauthoryear{{Bartz}}{{Bartz}}{2018}]{Bartz2018}
+{Bartz}, A. 2018, in American Astronomical Society Meeting Abstracts, Vol. 231,
+  American Astronomical Society Meeting Abstracts \#231, 338.07
+
 \bibitem[\protect\citeauthoryear{{Brueckner} \& {Bartoe}}{{Brueckner} \&
   {Bartoe}}{1983}]{Brueckner1983}
 {Brueckner}, G.~E.,  \& {Bartoe}, J.-D.~F. 1983, \apj, 272, 329
@@ -19,18 +23,46 @@
 \bibitem[\protect\citeauthoryear{{Ellerman}}{{Ellerman}}{1917}]{Ellerman1917}
 {Ellerman}, F. 1917, \apj, 46, 298
 
+\bibitem[\protect\citeauthoryear{{Fox}, {Kankelborg}, \& {Thomas}}{{Fox}
+  et~al.}{2010}]{Fox2010}
+{Fox}, J.~L., {Kankelborg}, C.~C.,  \& {Thomas}, R.~J. 2010, \apj, 719, 1132
+
+\bibitem[\protect\citeauthoryear{Furth, Killeen, \& Rosenbluth}{Furth
+  et~al.}{1963}]{Furth1963}
+Furth, H.~P., Killeen, J.,  \& Rosenbluth, M.~N., 6, 459
+
+\bibitem[\protect\citeauthoryear{{Innes} et~al.}{{Innes}
+  et~al.}{2015}]{Innes2015}
+{Innes}, D.~E., {Guo}, L.-J., {Huang}, Y.-M.,  \& {Bhattacharjee}, A., 813, 86
+
 \bibitem[\protect\citeauthoryear{{Innes} et~al.}{{Innes}
   et~al.}{1997}]{Innes1997}
 {Innes}, D.~E., {Inhester}, B., {Axford}, W.~I.,  \& {Wilhelm}, K. 1997, \nat,
   386, 811
+
+\bibitem[\protect\citeauthoryear{{Mathioudakis} et~al.}{{Mathioudakis}
+  et~al.}{1999}]{Mathioudakis1999}
+{Mathioudakis}, M., {McKenny}, J., {Keenan}, F.~P., {Williams}, D.~R.,  \&
+  {Phillips}, K.~J.~H. 1999, \aap, 351, L23
 
 \bibitem[\protect\citeauthoryear{{Nelson} et~al.}{{Nelson}
   et~al.}{2017}]{Nelson2017}
 {Nelson}, C.~J., {Freij}, N., {Reid}, A., {Oliver}, R., {Mathioudakis}, M.,  \&
   {Erd{\'e}lyi}, R. 2017, \apj, 845, 16
 
+\bibitem[\protect\citeauthoryear{{Peter} et~al.}{{Peter}
+  et~al.}{2014}]{Peter2014}
+{Peter}, H., et~al. 2014, Science, 346, 1255726
+
 \bibitem[\protect\citeauthoryear{{Petschek}}{{Petschek}}{1964}]{Petschek1964}
 {Petschek}, H.~E. 1964, NASA Special Publication, 50, 425
+
+\bibitem[\protect\citeauthoryear{{Rouppe van der Voort} et~al.}{{Rouppe van der
+  Voort} et~al.}{2017}]{Rouppe2017}
+{Rouppe van der Voort}, L., et~al. 2017, \apjl, 851, L6
+
+\bibitem[\protect\citeauthoryear{{Rust}}{{Rust}}{2017}]{Rust2017}
+{Rust}, T.~L. 2017, Ph.D. thesis, Montana State University
 
 \bibitem[\protect\citeauthoryear{{Scharmer} et~al.}{{Scharmer}
   et~al.}{2003}]{SST}
@@ -57,5 +89,8 @@ Scharmer, G.~B., et~al. 2008, The Astrophysical Journal Letters, 689, L69
   et~al.}{2011}]{Watanabe2011}
 {Watanabe}, H., {Vissers}, G., {Kitai}, R., {Rouppe van der Voort}, L.,  \&
   {Rutten}, R.~J. 2011, \apj, 736, 71
+
+\bibitem[\protect\citeauthoryear{{Yan} et~al.}{{Yan} et~al.}{2015}]{Yan2015}
+{Yan}, L., et~al. 2015, \apj, 811, 48
 
 \end{thebibliography}

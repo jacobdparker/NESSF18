@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.11.27)  25 JAN 2018 16:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.11.27)  31 JAN 2018 06:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -556,14 +556,8 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 42.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-
-LaTeX Warning: Reference `fig:eecolor' on page 1 undefined on input line 47.
-
-
-LaTeX Warning: Reference `fig:eecolor' on page 1 undefined on input line 47.
-
 (./reconnection_cartoon.pdf_tex
-<reconnection_cartoon.pdf, id=4, page=1, 262.90564pt x 248.45692pt>
+<reconnection_cartoon.pdf, id=6, page=1, 262.90564pt x 248.45692pt>
 File: reconnection_cartoon.pdf Graphic file (type pdf)
 
 <use reconnection_cartoon.pdf, page 1>
@@ -571,7 +565,7 @@ Package pdftex.def Info: reconnection_cartoon.pdf, page1 used on input line 52.
 
 (pdftex.def)             Requested size: 262.90565pt x 248.48285pt.
 
-<reconnection_cartoon.pdf, id=5, page=2, 262.90564pt x 248.45692pt>
+<reconnection_cartoon.pdf, id=7, page=2, 262.90564pt x 248.45692pt>
 File: reconnection_cartoon.pdf Graphic file (type pdf)
 
 <use reconnection_cartoon.pdf, page 2>
@@ -579,7 +573,7 @@ Package pdftex.def Info: reconnection_cartoon.pdf, page2 used on input line 56.
 
 (pdftex.def)             Requested size: 262.90565pt x 248.48285pt.
 
-<reconnection_cartoon.pdf, id=6, page=3, 262.90564pt x 248.45692pt>
+<reconnection_cartoon.pdf, id=8, page=3, 262.90564pt x 248.45692pt>
 File: reconnection_cartoon.pdf Graphic file (type pdf)
 
 <use reconnection_cartoon.pdf, page 3>
@@ -587,7 +581,7 @@ Package pdftex.def Info: reconnection_cartoon.pdf, page3 used on input line 60.
 
 (pdftex.def)             Requested size: 262.90565pt x 248.48285pt.
 
-<reconnection_cartoon.pdf, id=7, page=4, 262.90564pt x 248.45692pt>
+<reconnection_cartoon.pdf, id=9, page=4, 262.90564pt x 248.45692pt>
 File: reconnection_cartoon.pdf Graphic file (type pdf)
 
 <use reconnection_cartoon.pdf, page 4>
@@ -595,7 +589,7 @@ Package pdftex.def Info: reconnection_cartoon.pdf, page4 used on input line 65.
 
 (pdftex.def)             Requested size: 262.90565pt x 248.48285pt.
 
-<reconnection_cartoon.pdf, id=8, page=5, 262.90564pt x 248.45692pt>
+<reconnection_cartoon.pdf, id=10, page=5, 262.90564pt x 248.45692pt>
 File: reconnection_cartoon.pdf Graphic file (type pdf)
 
 <use reconnection_cartoon.pdf, page 5>
@@ -623,42 +617,88 @@ ion: multiple pdfs with page group included in a single page
 
 LaTeX Warning: Command \r invalid in math mode on input line 62.
 
-[2] (./NESSF2018_Proposal.bbl) [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 124.
+[2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 79.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 79.
+Package epstopdf Info: Source file: <./NESSF_img/ee_map.eps>
+(epstopdf)                    date: 2017-01-11 16:05:02
+(epstopdf)                    size: 1117011 bytes
+(epstopdf)             Output file: <./NESSF_img/ee_map-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-01-11 16:05:13
+(epstopdf)                    size: 406456 bytes
+(epstopdf)             Command: <repstopdf --outfile=./NESSF_img/ee_map-eps-con
+verted-to.pdf ./NESSF_img/ee_map.eps>
+(epstopdf)             \includegraphics on input line 96.
+Package epstopdf Info: Output file is already uptodate.
+
+<./NESSF_img/ee_map-eps-converted-to.pdf, id=108, 1027.84pt x 164.615pt>
+File: ./NESSF_img/ee_map-eps-converted-to.pdf Graphic file (type pdf)
+
+<use ./NESSF_img/ee_map-eps-converted-to.pdf>
+Package pdftex.def Info: ./NESSF_img/ee_map-eps-converted-to.pdf used on input 
+line 96.
+(pdftex.def)             Requested size: 513.91875pt x 82.3073pt.
+
+<NESSF_img/01481.jpg, id=109, 636.3775pt x 402.50375pt>
+File: NESSF_img/01481.jpg Graphic file (type jpg)
+
+<use NESSF_img/01481.jpg>
+Package pdftex.def Info: NESSF_img/01481.jpg used on input line 103.
+(pdftex.def)             Requested size: 254.5465pt x 160.99864pt.
+Package epstopdf Info: Source file: <NESSF_img/ee_color.eps>
+(epstopdf)                    date: 2017-01-12 13:13:55
+(epstopdf)                    size: 48715 bytes
+(epstopdf)             Output file: <NESSF_img/ee_color-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-01-12 13:14:04
+(epstopdf)                    size: 8526 bytes
+(epstopdf)             Command: <repstopdf --outfile=NESSF_img/ee_color-eps-con
+verted-to.pdf NESSF_img/ee_color.eps>
+(epstopdf)             \includegraphics on input line 110.
+Package epstopdf Info: Output file is already uptodate.
+
+<NESSF_img/ee_color-eps-converted-to.pdf, id=114, 234.8775pt x 53.19875pt>
+File: NESSF_img/ee_color-eps-converted-to.pdf Graphic file (type pdf)
+
+<use NESSF_img/ee_color-eps-converted-to.pdf>
+Package pdftex.def Info: NESSF_img/ee_color-eps-converted-to.pdf used on input 
+line 110.
+(pdftex.def)             Requested size: 469.75385pt x 106.39722pt.
+ [3 <./NESSF_img/ee_map-eps-converted-to.pdf> <./NESSF_img/01481.jpg>] [4 <./NE
+SSF_img/ee_color-eps-converted-to.pdf>] (./NESSF2018_Proposal.bbl) [5]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 171.
  (./NESSF2018_Proposal.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 124.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 124.
-
-
-LaTeX Warning: There were undefined references.
-
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 171.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 171.
  ) 
 Here is how much of TeX's memory you used:
- 9350 strings out of 493029
- 128651 string characters out of 6136233
- 266088 words of memory out of 5000000
- 12747 multiletter control sequences out of 15000+600000
- 11738 words of font info for 47 fonts, out of 8000000 for 9000
+ 9440 strings out of 493029
+ 130293 string characters out of 6136233
+ 277230 words of memory out of 5000000
+ 12814 multiletter control sequences out of 15000+600000
+ 11430 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,11n,37p,1329b,350s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on NESSF2018_Proposal.pdf (3 pages, 182309 bytes).
+ 36i,11n,37p,1340b,350s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on NESSF2018_Proposal.pdf (5 pages, 743424 bytes).
 PDF statistics:
- 147 PDF objects out of 1000 (max. 8388607)
- 120 compressed objects within 2 object streams
- 30 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 229 PDF objects out of 1000 (max. 8388607)
+ 191 compressed objects within 2 object streams
+ 44 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
